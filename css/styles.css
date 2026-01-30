@@ -1,0 +1,22 @@
+
+/* agggiungere best practice border-box */
+
+body {
+    background-color: lightblue;
+}
+
+nav {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: red;
+}
+
+article {
+    background-color: brown;
+}
+
+aside {
+    background-color: yellow;
+}
